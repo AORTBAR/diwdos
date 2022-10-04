@@ -1,0 +1,136 @@
+.verde{
+    background-color: rgb(4, 121, 4);
+}
+h1 {
+    text-align: center;
+    color: rgb(77, 24, 24);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f05567;
+}
+
+.amarillo{
+    background-color: #e5f40e;
+}
+.primero{
+    font-size: xx-large;
+    color: rgb(5, 4, 4); 
+}
+.segundo{
+    font-size: smaller;
+    color: #f05567;
+}
+.tercero{
+    font-size: medium;
+    color: #5562f0;
+}
+.lenguajes{
+    font-size: xx-large;
+    color:#5562f0;    
+}
+p:nth-child(even){
+    background-color: yellow;
+}
+p:nth-child(odd){
+    background-color: rgb(113, 59, 113);
+}
+.azul{
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #ef3c00;
+
+}
+li{
+    font-size: x-large;
+    list-style: none;
+    text-align: center;
+    text-decoration: solid;
+}
+.ejercicio4 p{
+    background-color:#e5f40e;
+
+}
+.ejercicio4{
+    background-color: #1e3076;
+}
+.tipo1{
+    font-weight: 600;
+    
+}
+.tipo2{
+    font-style: italic;
+}
+.tipo3{
+    text-decoration: underline;
+}
+.tipo4{
+    font-weight: 600;
+    font-size: 1.5em;
+}
+.tipo5{
+    font-style: italic;
+    font-size: 1.5em;
+}
+.tipo6{
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+.tipo7{
+    font-weight: 600;
+    color:#ef3c00;
+}
+.tipo8{
+    font-style: italic;
+    color: #ef3c00;
+}
+.tipo9{
+    text-decoration: underline;
+    color: #ef3c00;
+}
+.tipo10{
+    font-weight: 600;
+    font-style: italic;
+    font-size: 2em;
+    color: #122897;
+}
+.tipo11{
+    font-weight: 600;
+    text-decoration: underline;
+    font-size: 2em;
+    color: #122897;
+}
+.tipo12{
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 2em;
+    color: #122897;
+}
+.tipo13{
+    font-weight: 600; 
+    font-style: italic; 
+    text-decoration: underline;
+    font-size: 2em;
+    color: #122897;
+}
+.buscadores a{
+    display: block;
+    text-align: center;
+    font-size: 1.5em;
+    color: #5562f0;
+    font-weight: 600;
+    text-decoration: none;
+}
+#buscadores{
+    background-color:#653737;
+}
+.enlaces p{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;   
+    background-color: rgb(255, 255, 255);
+}  
+.enlaces a{
+    text-decoration: none;
+    font-size: 1.5em;
+    color: #5562f0;  
+} 
